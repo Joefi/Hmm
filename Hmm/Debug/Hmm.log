@@ -1,0 +1,10 @@
+﻿  Hmm.cpp
+d:\cproject\hmm\hmm\hmm.cpp(9): error C2143: 语法错误: 缺少“;”(在“using namespace”的前面)
+  HmmTrain.cpp
+d:\cproject\hmm\hmm\hmmtrain.cpp(8): error C2144: 语法错误:“void”的前面应有“;”
+d:\cproject\hmm\hmm\hmmtrain.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+d:\cproject\hmm\hmm\hmmtrain.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+d:\cproject\hmm\hmm\hmmtrain.cpp(356): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  HmmTest.cpp
+d:\cproject\hmm\hmm\hmmtest.cpp(6): error C2143: 语法错误: 缺少“;”(在“using namespace”的前面)
+  正在生成代码...
